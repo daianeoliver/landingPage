@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'dogtype';
+    src: url("../components/fonts/Doggart.ttf") format('TrueType');
+   
+}
+
+@font-face {
+    font-family: 'blueberryday';
+    src: url("../components/fonts/Blueberry\ Days.ttf") format('TrueType');
+   
+}
+
+@font-face {
+    font-family: 'GoodDDC';
+    src: url("../components/fonts/GOODDC__.TTF") format('TrueType');
+   
+}

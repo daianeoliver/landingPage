@@ -1,0 +1,51 @@
+@media screen and (max-width: 760px) {
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+    }
+
+    h2{
+        font-size: 38px;
+    }
+
+    h3{
+        font-size: 15px;
+    }
+
+    form{
+        margin: 0 auto;
+        width: 70%;
+    }
+
+    input{
+        align-self: center;
+    }
+
+    .img1{
+       display: none;
+    }
+
+    ul{
+        text-align: center;
+    }
+}
+
+@keyframes change {
+    0%{
+        background-position: 0 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0 50%;
+    }
+}
+
+@keyframes mymove { 0%   {top: 0px;  width: 100px;}
+    100% {top: 300px; width: 300px;}
+   
+  }
