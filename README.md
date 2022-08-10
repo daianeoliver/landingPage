@@ -1,4 +1,4 @@
-# landingPage Pets :smile_cat: :dog:
+# Landing Page Pets :smile_cat: :dog:
 Essa Landing Page foi desenvolvida como projeto de estudo, dentro de um desafio de código realizado pelos 'Programadores Falidos':
 *https://vitorpignataro.github.io/Discord_Event/index.html* 
 
