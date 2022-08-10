@@ -11,7 +11,7 @@ Não é permitido o uso de frameworks neste desafio.
 :point_right: O tema da landing page é livre, porém é proibido qualquer tema que possa ser ofensivo, contenha um conteúdo gore ou seja desagradável.
 
 ## O que pude absorver
-com este projeto, fiz minha primeira landing page, e assim conheci um pouco mais sobre front-end e desenvolver um pouco mais algumas habilidades, e melhorar meus conhecimentos de código.
+com este projeto, fiz minha primeira landing page, e assim conheci um pouco mais sobre front-end e desenvolvi um pouco mais algumas habilidades de código.
 Escolhi o tema Pets por serem fofos e eu gostar muito deles, apesar de não ter nenhum!
 
 
